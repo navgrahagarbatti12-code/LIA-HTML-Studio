@@ -94,4 +94,3 @@ jobs:
           path: source/LIA_HTML_Studio/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
-l
